@@ -9,6 +9,7 @@
 <body>
     
 <br><br><br><br><br><br>
+<center><img src="https://pokedex.sleduardo.dev/img/logo.svg" height="150"/></center>
 <center><h1 align="center" style="color:black">CADASTRO DE POKEMONS<h2 style="color:black"></h2></h1></center>
 <br><br><br><br><br><br>
 <center><a href="/pokemon/form"><button style="height: 70px; width:500px; font-size:25px; background-color:yellow;border: 1 solid black;color:black" >Adicionar pokemons</button></a></center><br><br><br><br><br>
